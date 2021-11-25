@@ -1,0 +1,27 @@
+{
+  "name": "bmi-counter",
+  "version": "1.0.2",
+  "description": "It's now easy to count Body Mass Index",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanmoy-Barua/bmi-counter.git"
+  },
+  "keywords": [
+    "BMI",
+    "BMI-COUNT",
+    "Bmi-Count",
+    "Body",
+    "Mass",
+    "Index"
+  ],
+  "author": "Tanmoy Barua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tanmoy-Barua/bmi-counter/issues"
+  },
+  "homepage": "https://github.com/Tanmoy-Barua/bmi-counter#readme"
+}
